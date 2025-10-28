@@ -1,17 +1,17 @@
 const socialLinks = [
     {
         name: "TikTok",
-        url: "YOUR_TIKTOK_LINK_HERE", // Change this link
+        url: "https://www.tiktok.com/@qif_sa", // Change this link
         iconClass: "fab fa-tiktok"
     },
     {
         name: "Instagram",
-        url: "YOUR_INSTAGRAM_LINK_HERE", // Change this link
+        url: "https://www.instagram.com/qif_sa/", // Change this link
         iconClass: "fab fa-instagram"
     },
     {
         name: "Google Map",
-        url: "YOUR_GOOGLE_MAP_LINK_HERE", // Change this link
+        url: "https://www.google.com/maps", // Change this link
         iconClass: "fas fa-map-marker-alt"
     },
     {
