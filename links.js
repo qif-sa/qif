@@ -12,7 +12,7 @@ const socialLinks = [
     },
     {
         name: "Snapchat",
-        url: "https://wa.me/YOUR_PHONE_NUMBER", // Change this link
+        url: "https://snapchat.com/t/9efXXNWu", // Change this link
         iconClass: "fab fa-snapchat-ghost"
     },
     {
